@@ -1,0 +1,10 @@
+INSTRUCCIONES RÁPIDAS
+
+1. Sube este ZIP como repositorio nuevo en GitHub (usa 'Upload files').
+2. Luego, despliega en Streamlit usando:
+   - Archivo principal: calculadora_la_solucion_streamlit_fondo_OK.py
+   - Rama: main
+3. También puedes ejecutar localmente:
+   python calculadora_la_solucion_py_completa.py
+4. Para crear .exe (opcional):
+   pyinstaller --onefile calculadora_la_solucion_py_completa.py
